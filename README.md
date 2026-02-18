@@ -32,7 +32,7 @@ var result = umdify(js, options);
 }
 ```
 
-> Check out the [`demo.js`](https://github.com/bebraw/libumd/blob/master/demo.js)
+> Check out the [`demo.js`](https://github.com/Unity-Billal-mesloub/libumd/blob/master/demo.js)
 
 ## Default Templates
 
@@ -44,12 +44,8 @@ Make sure [PhantomJS](http://phantomjs.org/) is installed and it's within your P
 
 ## Contributors
 
-* [Stéphane Bachelier](https://github.com/stephanebachelier) - Use existing `objectToExport` instead of hardcoded value `returnExportsGlobal` for AMD.
-* [Simon Harte](https://github.com/SimonHarte) - Made the documentation clearer about the correct usage.
-* [Valerii Zinchenko](https://github.com/valerii-zinchenko) - Allowed dependency name to contain a dash. #17
-* [@timeiscoffee](https://github.com/timeiscoffee) - Updated UMD templates to the current scheme. #18
+* [Billal mesloub](https://github.com/Unity-Billal-mesloub) - Use existing `objectToExport` instead of hardcoded value `returnExportsGlobal` for AMD.
 
-## License
 
-`libumd` is available under MIT. See LICENSE for more details.
+
 
